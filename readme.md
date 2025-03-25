@@ -34,18 +34,6 @@ This is a React application implementing a multi-step form with local storage su
    npm start
    ```
 
-## Project Structure
-
-```
-/src
-  ├── components
-  │   ├── PersonalDetails.js
-  │   ├── Address.js
-  │   ├── Payment.js
-  ├── App.js
-  ├── index.js
-```
-
 ## Form Steps
 
 1. **Personal Details** - Name and email input fields.
